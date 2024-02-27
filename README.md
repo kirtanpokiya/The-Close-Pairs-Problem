@@ -1,4 +1,4 @@
-# The-Close-Pairs-Problem
+# The-Close-Pairs-Problem (Spark)
 For geographic data, identify nearby points within a threshold distance to interact with. Generate a list of close pairs and execute desired calculations between them.
 
 This project involves processing point data stored in CSV files using Apache Spark. The input consists of CSV files containing point IDs, X coordinates, and Y coordinates separated by commas. The goal is to identify pairs of points that are within a specified threshold distance.
